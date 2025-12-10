@@ -1,0 +1,31 @@
+# ==========================
+# Flask Web Framework
+# ==========================
+flask>=3.0.0
+werkzeug>=3.0.0
+
+# ==========================
+# Twilio for Phone Calls
+# ==========================
+twilio>=8.10.0
+
+# ==========================
+# OpenAI for AI Responses
+# ==========================
+openai>=1.0.0
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv>=1.0.0
+
+# ==========================
+# HTTP Requests
+# ==========================
+requests>=2.31.0
+
+# ==========================
+# For Production (Optional)
+# ==========================
+# gunicorn>=21.2.0  # Linux/Mac only
+# waitress>=2.1.2   # Windows compatible
